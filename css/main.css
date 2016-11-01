@@ -1,0 +1,16 @@
+body {
+  background-color: #c9b5ab;
+}
+
+head {
+  font-size: 1.5rem;
+  font-family: 'PT Sans', sans-serif;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+nav > ol {
+  font-family: s'PT Sans', sans-serif;
+}
